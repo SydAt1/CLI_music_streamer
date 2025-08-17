@@ -1,0 +1,3 @@
+# Music Playlist Manager Dependencies
+# All dependencies are part of Python standard library, so no external packages needed
+# Python 3.6+ required for pathlib and typing support
